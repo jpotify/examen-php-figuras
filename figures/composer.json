@@ -1,0 +1,18 @@
+{
+    "name": "jpovtify/Figures",
+    "description": "Prueba técnica 'Examen PHP - Figuras' de GeoPagos",
+    "license": "Apache",
+    "authors": [
+        {
+            "name": "Juan Pablo Osorio",
+            "email": "jpov.nsce@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {
+            "Jpovtify\\Figures\\": "src"
+        }
+    }
+}
